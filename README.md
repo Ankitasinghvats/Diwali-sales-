@@ -25,7 +25,7 @@ Conclusion
 The project demonstrates how data-driven insights can shape customer experience and enhance sales strategies. For detailed information, feel free to explore the code and findings within this repository.
 
 Contact Information
-Connect with me on LinkedIn: Ankita singh vats
+Connect with me on LinkedIn: Ankita singh vats https://www.linkedin.com/in/ankita-singh-vats-87b110192/
 
 For inquiries, reach out via email: [Ankitavats068@gmail.com]
 
